@@ -2,15 +2,18 @@
 
 ## Show commands
 
-| Command        | YANG model | Translation unit path | Jira Issue | 
-| -------------- |------------| --------------------- | ---------- |
-| show version    | IOS-essentials  | gitub.com/frinxio/Code//dir/file | ab12 |
-| show ip interface brief    | IOS-essentials  | gitub.com/frinxio/Code//dir/file | ab12 |
-
-
 ### General Information
 
+| Command        | YANG model | Translation unit path | Jira Issue | 
+| -------------- |------------| --------------------- | ---------- |
+| [show_version.md]  | IOS-essentials  | gitub.com/frinxio/Code//dir/file01 | xy11 |
+| [show version](show_version.md)  | IOS-essentials  | gitub.com/frinxio/Code//dir/file01 | xy11 |
+
 ### Interface information
+
+| Command        | YANG model | Translation unit path | Jira Issue | 
+| -------------- |------------| --------------------- | ---------- |
+| show ip interface brief  | OpenConfig  | gitub.com/frinxio/Code//dir/file | ab12 |
 
 ### IP information
 
