@@ -4,10 +4,10 @@
 
 ### General Information
 
-| Command        | YANG model | Translation unit path | Jira Issue | 
+| Command        | YANG model | Translation unit | Jira Issue | 
 | -------------- |------------| --------------------- | ---------- |
 | [show_version.md]  | IOS-essentials  | gitub.com/frinxio/Code//dir/file01 | xy11 |
-| [show version](show_version.md)  | IOS-essentials  | gitub.com/frinxio/Code//dir/file01 | xy11 |
+| [show version](show_version.md)  | [openconfig-interfaces.yang](https://github.com/openconfig/public/blob/master/release/models/interfaces/openconfig-interfaces.yang)  | [Translate-unit-ios-interfaces-Openconfig](https://github.com/frinxio/translation-units/Code/ | xy11 |
 
 ### Interface information
 
