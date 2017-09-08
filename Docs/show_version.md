@@ -1,10 +1,12 @@
----
+# show version
+
+## REST call
 
 ```
 http://localhost:8181/restconf/operational/network-topology:network-topology/topology/cli/node/IOS1/yang-ext:mount/ios-essential:version
 ```
 
----
+## REST response body
 
 ```
 {
@@ -19,10 +21,13 @@ http://localhost:8181/restconf/operational/network-topology:network-topology/top
     }
 }
 ```
+
+
 ---
 
-```R121#show version
-`Cisco IOS` Software, `7200` Software (C7200-ADVIPSERVICESK9-M), Version `15.2(4)S5, RELEASE SOFTWARE (fc1)`
+
+R121#show version
+<mark>Cisco IOS</mark> Software, 7200 Software (C7200-ADVIPSERVICESK9-M), Version 15.2(4)S5, RELEASE SOFTWARE (fc1)
 Technical Support: http://www.cisco.com/techsupport
 Copyright (c) 1986-2014 by Cisco Systems, Inc.
 Compiled Thu 20-Feb-14 06:51 by prod_rel_team
