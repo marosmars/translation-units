@@ -20,7 +20,7 @@
 
 ---
 
-`Cisco IOS` Software, `IOSv` Software (VIOS-ADVENTERPRISEK9-M), `Version 15.5(3)M, RELEASE SOFTWARE (fc1)`
+<mark>Cisco IOS<\mark> Software, `IOSv` Software (VIOS-ADVENTERPRISEK9-M), `Version 15.5(3)M, RELEASE SOFTWARE (fc1)`
 Technical Support: http://www.cisco.com/techsupport
 Copyright (c) 1986-2015 by Cisco Systems, Inc.
 Compiled Wed 22-Jul-15 23:04 by prod_rel_team
@@ -63,7 +63,7 @@ DRAM configuration is 72 bits wide with parity disabled.
 Configuration register is `0x02102`
 
 ---
-
+```
 {
   "version": {
     "conf-reg": "0x2102",
@@ -75,6 +75,7 @@ Configuration register is `0x02102`
     "sys-memory": "491520K/32768K"
   }
 }
+```
 
 
 
