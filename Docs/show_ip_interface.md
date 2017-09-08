@@ -140,8 +140,8 @@ http://localhost:8181/restconf/operational/network-topology:network-topology/top
 
 <pre>
 R121#sh ip interface 
-<b>FastEthernet0/0</b>b> is <b>up</b>, line protocol is <b>up</b>b>
-  Internet address is <b>192.168.56.121/24</b>b>
+<b>FastEthernet0/0</b> is <b>up</b>, line protocol is <b>up</b>
+  Internet address is <b>192.168.56.121/24</b>
   Broadcast address is 255.255.255.255
   Address determined by non-volatile memory
   MTU is <b>1500</b> bytes
