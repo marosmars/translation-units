@@ -25,9 +25,9 @@ http://localhost:8181/restconf/operational/network-topology:network-topology/top
 
 ---
 
-
+<pre>
 R121#show version
-<mark>Cisco IOS</mark> Software, 7200 Software (C7200-ADVIPSERVICESK9-M), Version 15.2(4)S5, RELEASE SOFTWARE (fc1)
+<mark>Cisco IOS</mark> Software, <b>7200</b> Software (C7200-ADVIPSERVICESK9-M), Version 15.2(4)S5, RELEASE SOFTWARE (fc1)
 Technical Support: http://www.cisco.com/techsupport
 Copyright (c) 1986-2014 by Cisco Systems, Inc.
 Compiled Thu 20-Feb-14 06:51 by prod_rel_team
@@ -90,6 +90,6 @@ WARNING: PCI bus mb0_mb1 Exceeds 600 bandwidth points
 
 8192K bytes of Flash internal SIMM (Sector size 256K).
 Configuration register is 0x2102
-```
+</pre>
 
 
