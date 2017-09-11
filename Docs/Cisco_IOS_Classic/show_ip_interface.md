@@ -140,11 +140,11 @@ http://localhost:8181/restconf/operational/network-topology:network-topology/top
 
 <pre>
 R121#sh ip interface 
-<b>FastEthernet0/0</b> is <b>up</b>, line protocol is <b>up</b>
-  Internet address is <b>192.168.56.121/24</b>
+<b><mark>FastEthernet0/0</b></mark> is <b><mark>up</b></mark>, line protocol is <b><mark>up</b></mark>
+  Internet address is <b><mark>192.168.56.121/24</b></mark>
   Broadcast address is 255.255.255.255
   Address determined by non-volatile memory
-  MTU is <b>1500</b> bytes
+  MTU is <b><mark>1500</b></mark> bytes
   Helper address is not set
   Directed broadcast forwarding is disabled
   Outgoing access list is not set

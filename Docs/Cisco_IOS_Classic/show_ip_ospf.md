@@ -21,7 +21,7 @@
 
 <pre>
 R121#sh ip ospf
- Routing Process "<b>ospf 200</b>" with ID <b>9.9.9.9</b>
+ Routing Process "<b><mark>ospf 200</b></mark>" with ID <b><mark>9.9.9.9</b></mark>
  Start time: 01:59:55.128, Time elapsed: 00:01:26.652
  Supports only single TOS(TOS0) routes
  Supports opaque LSA
@@ -49,7 +49,7 @@ R121#sh ip ospf
  IETF NSF helper support enabled
  Cisco NSF helper support enabled
  Reference bandwidth unit is 100 mbps
-    Area <b>70</b>
+    Area <b><mark>70</b></mark>
         Number of interfaces in this area is 1 (1 loopback)
 	Area has no authentication
 	SPF algorithm last executed 00:00:50.840 ago
@@ -61,7 +61,7 @@ R121#sh ip ospf
 	Number of indication LSA 0
 	Number of DoNotAge LSA 0
 	Flood list length 0
-    Area <b>90</b>
+    Area <b><mark>90</b></mark>
         Number of interfaces in this area is 1 (1 loopback)
 	Area has no authentication
 	SPF algorithm last executed 00:00:31.564 ago
@@ -74,7 +74,7 @@ R121#sh ip ospf
 	Number of DoNotAge LSA 0
 	Flood list length 0
 	
- Routing Process "<b>ospf 100</b>" with ID <b>192.168.56.121</b>
+ Routing Process "<b><mark>ospf 100</b></mark>" with ID <b><mark>192.168.56.121</b></mark>
  Start time: 00:26:19.132, Time elapsed: 01:35:02.676
  Supports only single TOS(TOS0) routes
  Supports opaque LSA
@@ -102,7 +102,7 @@ R121#sh ip ospf
  IETF NSF helper support enabled
  Cisco NSF helper support enabled
  Reference bandwidth unit is 100 mbps
-    Area <b>20</b>
+    Area <b><mark>20</b></mark>
         Number of interfaces in this area is 3 (1 loopback)
 	Area has no authentication
 	SPF algorithm last executed 01:11:09.108 ago

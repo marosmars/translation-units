@@ -13,7 +13,7 @@
 
 | Command        | YANG model | Translation unit  | Status | 
 | -------------- |------------| ----------------- | ------ |
-| [show ip interface](show_ip_interface.md) | [openconfig-interfaces.yang](https://github.com/openconfig/public/blob/master/release/models/interfaces/openconfig-interfaces.yang) | [Translate-unit-ios-interfaces-Openconfig](https://github.com/frinxio/translation-units/Code/) | Completed |
+| [show ip interface](show_ip_interface.md) | [openconfig-interfaces.yang](https://github.com/openconfig/public/blob/master/release/models/interfaces/openconfig-interfaces.yang) | [Translate-unit-ios-interfaces-Openconfig](https://github.com/frinxio/translation-units/Code/) | [XY99](jira.com) |
 | [show ipv6 interface](show_ipv6_interface.md) | [openconfig-interfaces.yang](https://github.com/openconfig/public/blob/master/release/models/interfaces/openconfig-interfaces.yang) | [Translate-unit-ios-interfaces-Openconfig](https://github.com/frinxio/translation-units/Code/) | [XY66](jira.com)|
 
 

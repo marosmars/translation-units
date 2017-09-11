@@ -23,7 +23,7 @@
 R121#show ip ospf neighbor 
 
 Neighbor ID     Pri   State           Dead Time   Address         Interface
-<b>192.168.56.122</b>    <b>1</b>   <b>FULL/DR</b>         00:00:39    <b>8.8.8.2</b>         <b>GigabitEthernet3/0</b>
+<b><mark>192.168.56.122</b></mark>    <b><mark>1</b></mark>   <b><mark>FULL/DR</b></mark>         00:00:39    <b><mark>8.8.8.2</b></mark>         <b><mark>GigabitEthernet3/0</b></mark>
 R121#
 </pre>
 

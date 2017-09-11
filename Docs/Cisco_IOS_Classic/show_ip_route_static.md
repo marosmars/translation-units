@@ -33,9 +33,9 @@ Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP
 Gateway of last resort is not set
 
       7.0.0.0/32 is subnetted, 1 subnets
-S        <b>7.7.7.7</b> [<b>1</b>/<b>0</b>] via <b>10.5.5.1</b>
+S        <b><mark>7.7.7.7</b></mark> [<b><mark>1</b></mark>/<b><mark>0</b></mark>] via <b><mark>10.5.5.1</b></mark>
       9.0.0.0/32 is subnetted, 1 subnets
-S        <b>9.9.9.9</b> [<b>1</b>/<b>0</b>] via <b>10.5.5.1</b>
+S        <b><mark>9.9.9.9</b></mark> [<b><mark>1</b></mark>/<b><mark>0</b></mark>] via <b><mark>10.5.5.1</b></mark>
 R122#
 </pre>
 

@@ -27,7 +27,7 @@ http://localhost:8181/restconf/operational/network-topology:network-topology/top
 
 <pre>
 R121#show version
-<b>Cisco IOS</b> Software, <b>7200</b> Software (C7200-ADVIPSERVICESK9-M), <b>Version 15.2(4)S5, RELEASE SOFTWARE (fc1)</b>
+<b><mark>Cisco IOS</b></mark> Software, <b><mark>7200</b></mark> Software (C7200-ADVIPSERVICESK9-M), <b><mark>Version 15.2(4)S5, RELEASE SOFTWARE (fc1)</b></mark>
 Technical Support: http://www.cisco.com/techsupport
 Copyright (c) 1986-2014 by Cisco Systems, Inc.
 Compiled Thu 20-Feb-14 06:51 by prod_rel_team
@@ -37,7 +37,7 @@ BOOTLDR: 7200 Software (C7200-ADVIPSERVICESK9-M), Version 15.2(4)S5, RELEASE SOF
 
 R121 uptime is 5 minutes
 System returned to ROM by unknown reload cause - suspect boot_data[BOOT_COUNT] 0x0, BOOT_COUNT 0, BOOTDATA 19
-System image file is "<b>tftp://255.255.255.255/unknown</b>"
+System image file is "<b><mark>tftp://255.255.255.255/unknown</b></mark>"
 Last reload reason: Unknown reason
 
 
@@ -57,8 +57,8 @@ http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
 If you require further assistance please contact us by sending email to
 export@cisco.com.
 
-Cisco 7206VXR (NPE400) processor (revision A) with <b>491520K/32768K</b> bytes of memory.
-Processor board ID <b>4279256517</b>
+Cisco 7206VXR (NPE400) processor (revision A) with <b><mark>491520K/32768K</b></mark> bytes of memory.
+Processor board ID <b><mark>4279256517</b></mark>
 R7000 CPU at 150MHz, Implementation 39, Rev 2.1, 256KB L2 Cache
 6 slot VXR midplane, Version 2.1
 
@@ -89,7 +89,7 @@ WARNING: PCI bus mb0_mb1 Exceeds 600 bandwidth points
 509K bytes of NVRAM.
 
 8192K bytes of Flash internal SIMM (Sector size 256K).
-Configuration register is <b>0x2102</b>
+Configuration register is <b><mark>0x2102</b></mark>
 </pre>
 
 
