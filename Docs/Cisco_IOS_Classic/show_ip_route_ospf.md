@@ -33,9 +33,9 @@ Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP
 Gateway of last resort is not set
 
       6.0.0.0/32 is subnetted, 1 subnets
-O        <b>6.6.6.6</b> [<b>110</b>/<b>101</b>] via <b>8.8.8.2</b>, 01:06:47, <b>GigabitEthernet3/0</b>
+O        <b><mark>6.6.6.6</b></mark> [<b><mark>110</b></mark>/<b><mark>101</b></mark>] via <b><mark>8.8.8.2</b></mark>, 01:06:47, <b><mark>GigabitEthernet3/0</b></mark>
       10.0.0.0/8 is variably subnetted, 3 subnets, 2 masks
-O        <b>10.7.7.0/24</b> [<b>110</b>/<b>101</b>] via <b>8.8.8.2</b>, 01:02:03, <b>GigabitEthernet3/0</b>
+O        <b><mark>10.7.7.0/24</b></mark> [<b><mark>110</b></mark>/<b><mark>101</b></mark>] via <b><mark>8.8.8.2</b></mark>, 01:02:03, <b><mark>GigabitEthernet3/0</b></mark>
 R121#
 </pre>
 
