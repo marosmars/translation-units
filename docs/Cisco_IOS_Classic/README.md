@@ -26,7 +26,7 @@
 | Translation unit  | YANG model |  Command  | Status | 
 | ----------------- |------------| --------- | ------ |
 | [Translate-unit-ios-interfaces-Openconfig](https://github.com/frinxio/translation-units/code/) | [openconfig-if-ip.yang](https://github.com/openconfig/public/blob/master/release/models/interfaces/openconfig-if-ip.yang) | [show ip interface](show_ip_interface.md) | completed |
-|  | | [show ipv6 interface](show_ipv6_interface.md) | assignment required |
+|  | | [show ipv6 interface](show_ipv6_interface.md) | [MU-18](https://frinxhelpdesk.atlassian.net/browse/MU-18) |
 
 
 
